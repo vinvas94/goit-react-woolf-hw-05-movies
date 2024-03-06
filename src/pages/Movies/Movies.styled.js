@@ -1,11 +1,5 @@
 import styled from 'styled-components';
 
-export const Title = styled.h1`
-  text-align: center;
-  margin-bottom: 40px;
-  color: #343a40;
-`;
-
 export const Form = styled.form`
   text-align: center;
   margin-bottom: 40px;

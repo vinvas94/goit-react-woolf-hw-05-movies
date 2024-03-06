@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useSearchParams, useLocation } from 'react-router-dom';
 import { getMoveName } from '../../api/Api';
-import { Title, Form, Input, Btn } from './Movies.styled';
+import { Form, Input, Btn } from './Movies.styled';
 import MoviesList from '../../components/MovieList/MovieList';
 import { Notify } from 'notiflix';
 
@@ -39,13 +39,12 @@ const Movies = () => {
 
   return (
     <>
-      <Title>Search Films</Title>
       <Form onSubmit={handleSubmit}>
         <Input
           type="text"
           value={searchQuery}
           onChange={handleSearch}
-          placeholder="Search movies"
+          placeholder="Search films"
         />
         <Btn type="submit">Search</Btn>
       </Form>
