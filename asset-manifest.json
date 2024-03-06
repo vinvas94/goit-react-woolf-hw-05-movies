@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/goit-react-woolf-hw-05-movies/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-woolf-hw-05-movies/static/js/main.b293bd31.js",
+    "main.js": "/goit-react-woolf-hw-05-movies/static/js/main.31def352.js",
     "static/js/544.6010a243.chunk.js": "/goit-react-woolf-hw-05-movies/static/js/544.6010a243.chunk.js",
-    "static/js/310.9d52eda7.chunk.js": "/goit-react-woolf-hw-05-movies/static/js/310.9d52eda7.chunk.js",
+    "static/js/310.399130dc.chunk.js": "/goit-react-woolf-hw-05-movies/static/js/310.399130dc.chunk.js",
     "static/js/33.5f0ab179.chunk.js": "/goit-react-woolf-hw-05-movies/static/js/33.5f0ab179.chunk.js",
     "static/js/779.9934e521.chunk.js": "/goit-react-woolf-hw-05-movies/static/js/779.9934e521.chunk.js",
     "static/js/387.b1802a81.chunk.js": "/goit-react-woolf-hw-05-movies/static/js/387.b1802a81.chunk.js",
@@ -13,9 +13,9 @@
     "static/media/imageNotFound.jpg": "/goit-react-woolf-hw-05-movies/static/media/imageNotFound.e464b79c277980d64cbb.jpg",
     "index.html": "/goit-react-woolf-hw-05-movies/index.html",
     "main.7acaea2f.css.map": "/goit-react-woolf-hw-05-movies/static/css/main.7acaea2f.css.map",
-    "main.b293bd31.js.map": "/goit-react-woolf-hw-05-movies/static/js/main.b293bd31.js.map",
+    "main.31def352.js.map": "/goit-react-woolf-hw-05-movies/static/js/main.31def352.js.map",
     "544.6010a243.chunk.js.map": "/goit-react-woolf-hw-05-movies/static/js/544.6010a243.chunk.js.map",
-    "310.9d52eda7.chunk.js.map": "/goit-react-woolf-hw-05-movies/static/js/310.9d52eda7.chunk.js.map",
+    "310.399130dc.chunk.js.map": "/goit-react-woolf-hw-05-movies/static/js/310.399130dc.chunk.js.map",
     "33.5f0ab179.chunk.js.map": "/goit-react-woolf-hw-05-movies/static/js/33.5f0ab179.chunk.js.map",
     "779.9934e521.chunk.js.map": "/goit-react-woolf-hw-05-movies/static/js/779.9934e521.chunk.js.map",
     "387.b1802a81.chunk.js.map": "/goit-react-woolf-hw-05-movies/static/js/387.b1802a81.chunk.js.map",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.b293bd31.js"
+    "static/js/main.31def352.js"
   ]
 }
